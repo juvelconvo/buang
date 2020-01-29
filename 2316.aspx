@@ -4,7 +4,7 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head id="Head1" runat ="server">
-	<title>My Invoice</title>
+	<title>My Invoice testing</title>
     <link href="../vendors/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
     <link href="../style/font-awesome/css/font-awesome.min.css" rel="stylesheet">
     <link href="../style/css/custom.min.css" rel="stylesheet">
