@@ -1,0 +1,2 @@
+# buang
+buang 1
